@@ -1,10 +1,12 @@
-
-
 .circle{
     border-radius: 50%;
     background-color: grey;
     border: 3px solid black;
     height: 10em;
+}
+
+.small-circle{
+    max-width: 5%;
 }
 
 .circle-text{
