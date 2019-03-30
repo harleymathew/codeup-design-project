@@ -8,7 +8,14 @@
 .small-circle{
     max-width: 5%;
 }
-
-.circle-text{
-    line-height: 10em;
+div.col {
+ position:relative;
+    left: 51%;
+    bottom: 37px;
 }
+
+
+
+
+
+
