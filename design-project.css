@@ -1,4 +1,4 @@
-.circle{
+/**.circle{
     border-radius: 50%;
     background-color: grey;
     border: 3px solid black;
@@ -7,7 +7,7 @@
 
 .small-circle{
     max-width: 5%;
-}
+} **/
 .font {
     font-size:.5em;
 }
